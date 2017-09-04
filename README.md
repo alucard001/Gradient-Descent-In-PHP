@@ -7,8 +7,8 @@ Points to note
 --------------
 
 - This is a 2 columns dataset.  The data.csv file is exactly the same as above URL
-- So there is no matmul() or dot() stuff.
-- Yes I know there is a thing call NumPHP, but I just want to practise my understanding of GD only.  :)
+    - So there is no` matmul()` or `dot()` stuff.  This is NOT Python.
+- Yes I know there is a thing call [NumPHP](https://github.com/NumPHP/NumPHP), but I just want to practise my understanding of GD only.  :)
 - There may be a better way to optimize.  But since my objective is to learn stuff, there are a lot of comments inside the code to help someone (including me) out.
 - There are 2 versions: gd.php and gd-func.php
     - gd-func.php is the exact implementation of the above link, only modify the parameters structure
